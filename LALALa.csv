@@ -1,0 +1,370 @@
+Aspect,Label1,Score1,Label2,Score2,Label3,Score3,Label4,Score4,Label5,Score5,Label6,Score6
+line,fear,0.929,anger,0.048,joy,0.01,sadness,0.008,surprise,0.003,love,0.002
+prayer room,joy,0.872,love,0.099,anger,0.014,sadness,0.01,fear,0.005,surprise,0.001
+dining area,joy,0.995,love,0.002,surprise,0.001,fear,0.001,sadness,0.001,anger,0.0
+food,joy,0.99,sadness,0.004,anger,0.002,fear,0.001,surprise,0.001,love,0.001
+filter water,joy,0.985,anger,0.007,sadness,0.003,love,0.002,fear,0.001,surprise,0.001
+nasi lemak,joy,0.996,sadness,0.001,fear,0.001,anger,0.001,surprise,0.001,love,0.0
+que,anger,0.853,joy,0.094,fear,0.042,surprise,0.006,love,0.003,sadness,0.002
+ordering process,anger,0.853,joy,0.094,fear,0.042,surprise,0.006,love,0.003,sadness,0.002
+portions,anger,0.476,joy,0.402,fear,0.082,sadness,0.022,surprise,0.01,love,0.008
+food,joy,0.998,love,0.001,surprise,0.0,anger,0.0,sadness,0.0,fear,0.0
+clean,joy,0.997,love,0.001,sadness,0.001,anger,0.001,surprise,0.0,fear,0.0
+place,joy,0.997,love,0.001,sadness,0.001,anger,0.001,surprise,0.0,fear,0.0
+price,joy,0.993,sadness,0.002,love,0.002,anger,0.001,fear,0.001,surprise,0.001
+food,joy,0.999,love,0.001,surprise,0.0,sadness,0.0,anger,0.0,fear,0.0
+price,joy,0.915,anger,0.069,sadness,0.01,love,0.004,surprise,0.002,fear,0.001
+taste,joy,0.991,love,0.006,sadness,0.002,anger,0.001,fear,0.0,surprise,0.0
+sambal,love,0.989,anger,0.004,surprise,0.003,joy,0.003,fear,0.001,sadness,0.001
+food,joy,0.662,anger,0.271,sadness,0.038,love,0.016,fear,0.011,surprise,0.003
+service,sadness,0.622,anger,0.368,fear,0.007,joy,0.002,love,0.001,surprise,0.001
+sambal,joy,0.997,love,0.002,sadness,0.0,anger,0.0,surprise,0.0,fear,0.0
+food,joy,0.998,love,0.001,sadness,0.0,anger,0.0,surprise,0.0,fear,0.0
+sambal,joy,0.995,anger,0.002,love,0.001,sadness,0.001,surprise,0.0,fear,0.0
+portion,joy,0.369,anger,0.289,sadness,0.214,fear,0.109,love,0.01,surprise,0.009
+price,joy,0.369,anger,0.289,sadness,0.214,fear,0.109,love,0.01,surprise,0.009
+service,joy,0.994,love,0.001,sadness,0.001,anger,0.001,fear,0.001,surprise,0.001
+nasi lemak,joy,0.997,love,0.001,sadness,0.0,anger,0.0,surprise,0.0,fear,0.0
+drink,joy,0.816,love,0.168,anger,0.009,surprise,0.004,fear,0.002,sadness,0.002
+staff,joy,0.988,anger,0.007,love,0.002,fear,0.001,sadness,0.001,surprise,0.001
+food server,anger,0.997,fear,0.001,love,0.001,surprise,0.001,sadness,0.0,joy,0.0
+price,joy,0.985,sadness,0.005,love,0.004,anger,0.003,fear,0.001,surprise,0.001
+food,joy,0.997,love,0.001,sadness,0.001,anger,0.0,surprise,0.0,fear,0.0
+environment,joy,0.995,sadness,0.002,love,0.001,anger,0.001,surprise,0.001,fear,0.001
+chili sauce,love,0.966,joy,0.029,anger,0.002,surprise,0.002,fear,0.001,sadness,0.001
+parking,fear,0.349,joy,0.341,anger,0.235,sadness,0.041,surprise,0.02,love,0.014
+sambal,joy,0.99,surprise,0.005,sadness,0.002,anger,0.001,fear,0.001,love,0.001
+crowded,anger,0.916,fear,0.056,sadness,0.022,joy,0.004,surprise,0.001,love,0.001
+portion,joy,0.983,sadness,0.006,anger,0.005,love,0.003,fear,0.002,surprise,0.001
+rice,joy,0.983,sadness,0.006,anger,0.005,love,0.003,fear,0.002,surprise,0.001
+sotong,love,0.811,joy,0.183,anger,0.003,surprise,0.001,sadness,0.001,fear,0.001
+sambal,love,0.811,joy,0.183,anger,0.003,surprise,0.001,sadness,0.001,fear,0.001
+rice,sadness,0.763,anger,0.228,fear,0.004,joy,0.003,surprise,0.001,love,0.001
+parking,anger,0.397,joy,0.315,fear,0.171,sadness,0.092,surprise,0.015,love,0.009
+price,joy,0.996,love,0.001,anger,0.001,sadness,0.001,fear,0.0,surprise,0.0
+squid,joy,0.924,anger,0.063,love,0.005,sadness,0.005,surprise,0.002,fear,0.002
+chili gravy,love,0.821,joy,0.172,anger,0.003,surprise,0.002,sadness,0.001,fear,0.001
+rice,sadness,0.763,anger,0.228,fear,0.004,joy,0.003,surprise,0.001,love,0.001
+parking,anger,0.397,joy,0.315,fear,0.171,sadness,0.092,surprise,0.015,love,0.009
+price,joy,0.996,love,0.001,anger,0.001,sadness,0.001,fear,0.0,surprise,0.0
+staff,joy,0.925,sadness,0.034,anger,0.033,fear,0.004,love,0.003,surprise,0.001
+staff,joy,0.996,love,0.002,anger,0.0,sadness,0.0,surprise,0.0,fear,0.0
+food,joy,0.841,love,0.13,anger,0.02,surprise,0.004,fear,0.002,sadness,0.002
+portion,anger,0.852,joy,0.081,sadness,0.04,fear,0.02,love,0.005,surprise,0.003
+nasi lemak,joy,0.818,sadness,0.127,anger,0.029,fear,0.013,surprise,0.01,love,0.003
+sambal,love,0.965,joy,0.03,anger,0.002,surprise,0.001,fear,0.001,sadness,0.001
+nasi lemak,joy,0.995,love,0.003,sadness,0.001,anger,0.001,surprise,0.0,fear,0.0
+squid,love,0.994,joy,0.002,anger,0.001,surprise,0.001,fear,0.001,sadness,0.001
+portion,love,0.698,joy,0.293,anger,0.003,sadness,0.002,surprise,0.002,fear,0.001
+nasi lemak,joy,0.983,anger,0.007,love,0.006,sadness,0.002,fear,0.001,surprise,0.001
+parking,anger,0.874,fear,0.101,joy,0.013,sadness,0.007,surprise,0.003,love,0.003
+nasi lemak,anger,0.326,joy,0.3,sadness,0.24,fear,0.12,surprise,0.007,love,0.005
+expensive,anger,0.779,joy,0.12,sadness,0.082,love,0.009,fear,0.006,surprise,0.004
+food,joy,0.996,sadness,0.001,anger,0.001,surprise,0.001,fear,0.0,love,0.0
+price,anger,0.437,joy,0.374,sadness,0.17,love,0.008,fear,0.007,surprise,0.004
+place,joy,0.996,sadness,0.001,love,0.001,anger,0.001,fear,0.0,surprise,0.0
+staff,joy,0.997,sadness,0.001,love,0.001,anger,0.001,surprise,0.0,fear,0.0
+portion,sadness,0.708,anger,0.18,fear,0.068,joy,0.039,surprise,0.003,love,0.002
+dishes,joy,0.998,love,0.001,anger,0.0,sadness,0.0,surprise,0.0,fear,0.0
+air - conditioned area,joy,0.567,anger,0.232,fear,0.16,surprise,0.022,sadness,0.01,love,0.009
+taste,love,0.955,anger,0.017,joy,0.015,sadness,0.006,surprise,0.005,fear,0.002
+pricy,joy,0.98,love,0.01,anger,0.006,surprise,0.002,fear,0.002,sadness,0.001
+nasi lemak,joy,0.999,love,0.001,sadness,0.0,surprise,0.0,anger,0.0,fear,0.0
+parking,anger,0.819,joy,0.083,fear,0.078,sadness,0.015,surprise,0.002,love,0.002
+avocado smoothies,anger,0.997,sadness,0.001,love,0.001,fear,0.0,surprise,0.0,joy,0.0
+place,joy,0.997,love,0.001,sadness,0.001,surprise,0.0,fear,0.0,anger,0.0
+service,joy,0.956,anger,0.02,fear,0.012,sadness,0.006,love,0.003,surprise,0.003
+nasi lemak,joy,0.49,love,0.294,anger,0.197,surprise,0.01,sadness,0.005,fear,0.003
+service,joy,0.998,love,0.002,surprise,0.0,anger,0.0,sadness,0.0,fear,0.0
+portion,joy,0.765,anger,0.173,sadness,0.031,fear,0.012,love,0.011,surprise,0.007
+parking,fear,0.805,anger,0.076,joy,0.068,sadness,0.034,surprise,0.013,love,0.003
+service,joy,0.995,love,0.001,anger,0.001,fear,0.001,surprise,0.001,sadness,0.001
+nasi lemak,joy,0.892,love,0.096,anger,0.005,surprise,0.003,sadness,0.003,fear,0.001
+neat,joy,0.995,sadness,0.002,anger,0.001,love,0.001,fear,0.001,surprise,0.0
+clean,joy,0.995,sadness,0.002,anger,0.001,love,0.001,fear,0.001,surprise,0.0
+seating,joy,0.993,fear,0.002,love,0.002,surprise,0.002,sadness,0.001,anger,0.001
+food,joy,0.999,love,0.0,sadness,0.0,surprise,0.0,anger,0.0,fear,0.0
+food,anger,0.927,fear,0.053,joy,0.011,surprise,0.005,sadness,0.002,love,0.002
+service,joy,0.996,love,0.001,sadness,0.001,anger,0.001,surprise,0.0,fear,0.0
+sambal,love,0.968,anger,0.012,joy,0.011,surprise,0.006,fear,0.003,sadness,0.001
+pricey,joy,0.895,love,0.06,anger,0.02,sadness,0.015,fear,0.005,surprise,0.005
+place,joy,0.996,love,0.002,sadness,0.001,surprise,0.001,anger,0.0,fear,0.0
+parking,joy,0.987,anger,0.005,sadness,0.004,fear,0.002,love,0.001,surprise,0.001
+sambal,love,0.651,anger,0.217,joy,0.088,sadness,0.025,surprise,0.013,fear,0.007
+taste,joy,0.974,love,0.009,sadness,0.008,anger,0.006,surprise,0.002,fear,0.001
+pricey,anger,0.792,joy,0.119,sadness,0.067,love,0.011,fear,0.008,surprise,0.003
+fried,anger,0.781,joy,0.151,sadness,0.038,fear,0.022,love,0.007,surprise,0.002
+chicken,anger,0.781,joy,0.151,sadness,0.038,fear,0.022,love,0.007,surprise,0.002
+rendang,joy,0.993,love,0.005,surprise,0.0,anger,0.0,sadness,0.0,fear,0.0
+ayam masak merah,joy,0.993,love,0.005,surprise,0.0,anger,0.0,sadness,0.0,fear,0.0
+queue,joy,0.989,anger,0.005,surprise,0.002,fear,0.001,sadness,0.001,love,0.001
+parking,anger,0.949,fear,0.025,sadness,0.012,joy,0.011,surprise,0.002,love,0.001
+nasi lemak,joy,0.969,love,0.02,anger,0.008,sadness,0.001,surprise,0.001,fear,0.001
+price,joy,0.998,love,0.001,sadness,0.001,anger,0.0,surprise,0.0,fear,0.0
+nasi lemak,sadness,0.985,fear,0.007,anger,0.004,love,0.002,joy,0.001,surprise,0.001
+chicken,sadness,0.69,joy,0.191,anger,0.051,love,0.036,fear,0.024,surprise,0.008
+clean,joy,0.999,love,0.0,surprise,0.0,anger,0.0,sadness,0.0,fear,0.0
+nasi lemak,love,0.706,joy,0.272,anger,0.013,surprise,0.005,sadness,0.002,fear,0.002
+sambal,sadness,0.989,anger,0.006,joy,0.002,love,0.002,fear,0.001,surprise,0.0
+beef rendang,joy,0.998,love,0.001,sadness,0.0,anger,0.0,surprise,0.0,fear,0.0
+service,joy,0.995,sadness,0.002,surprise,0.001,fear,0.001,anger,0.001,love,0.001
+food,joy,0.997,love,0.002,surprise,0.0,anger,0.0,sadness,0.0,fear,0.0
+place,joy,0.99,love,0.004,anger,0.003,surprise,0.001,fear,0.001,sadness,0.001
+queue,joy,0.711,anger,0.205,sadness,0.044,fear,0.031,surprise,0.005,love,0.003
+taste,joy,0.996,surprise,0.002,love,0.001,sadness,0.0,fear,0.0,anger,0.0
+nasi lemak,joy,0.996,love,0.001,sadness,0.001,anger,0.001,fear,0.0,surprise,0.0
+food,joy,0.904,sadness,0.064,anger,0.019,surprise,0.006,fear,0.005,love,0.002
+place,fear,0.801,love,0.163,surprise,0.018,anger,0.013,sadness,0.004,joy,0.001
+food,joy,0.921,sadness,0.053,anger,0.016,surprise,0.005,fear,0.003,love,0.002
+price,anger,0.826,sadness,0.107,joy,0.049,fear,0.011,surprise,0.004,love,0.003
+dining place,joy,0.997,love,0.001,sadness,0.0,anger,0.0,surprise,0.0,fear,0.0
+squid,joy,0.983,love,0.015,anger,0.001,surprise,0.001,sadness,0.001,fear,0.0
+sambal,joy,0.996,anger,0.002,love,0.001,sadness,0.001,surprise,0.0,fear,0.0
+rice,joy,0.958,love,0.036,sadness,0.002,anger,0.002,surprise,0.001,fear,0.001
+traffic,anger,0.615,sadness,0.223,fear,0.155,joy,0.004,love,0.002,surprise,0.001
+service,joy,0.994,love,0.001,sadness,0.001,anger,0.001,fear,0.001,surprise,0.001
+food,joy,0.972,love,0.02,anger,0.004,sadness,0.002,surprise,0.001,fear,0.001
+place,love,0.849,joy,0.116,anger,0.023,sadness,0.006,fear,0.004,surprise,0.002
+side dishes,joy,0.961,love,0.022,anger,0.011,sadness,0.003,surprise,0.002,fear,0.001
+clean,joy,0.997,love,0.001,sadness,0.001,anger,0.001,surprise,0.0,fear,0.0
+bright,joy,0.997,love,0.001,sadness,0.001,anger,0.001,surprise,0.0,fear,0.0
+staff,joy,0.994,love,0.004,anger,0.001,sadness,0.001,surprise,0.0,fear,0.0
+prayer room,joy,0.84,anger,0.083,love,0.051,sadness,0.019,fear,0.006,surprise,0.002
+free coway water,joy,0.96,anger,0.012,love,0.011,sadness,0.01,fear,0.004,surprise,0.003
+food,joy,0.998,love,0.001,surprise,0.0,sadness,0.0,anger,0.0,fear,0.0
+nasi lemak,joy,0.651,love,0.252,anger,0.071,sadness,0.01,surprise,0.008,fear,0.007
+nasi lemak,joy,0.994,love,0.003,sadness,0.002,anger,0.001,fear,0.001,surprise,0.0
+server,anger,0.986,fear,0.006,joy,0.003,love,0.002,surprise,0.002,sadness,0.001
+spices,love,0.705,joy,0.289,anger,0.002,sadness,0.002,surprise,0.001,fear,0.001
+portion,joy,0.998,love,0.001,anger,0.0,surprise,0.0,sadness,0.0,fear,0.0
+services,joy,0.995,sadness,0.001,love,0.001,anger,0.001,surprise,0.001,fear,0.001
+sambal,joy,0.998,sadness,0.0,love,0.0,surprise,0.0,anger,0.0,fear,0.0
+food,joy,0.997,love,0.001,sadness,0.001,surprise,0.0,anger,0.0,fear,0.0
+service,joy,0.968,anger,0.015,fear,0.007,surprise,0.006,sadness,0.002,love,0.002
+price,joy,0.985,anger,0.005,sadness,0.004,fear,0.002,love,0.002,surprise,0.002
+rice,joy,0.765,love,0.225,surprise,0.004,anger,0.003,fear,0.002,sadness,0.001
+ayam masak merah,love,0.867,joy,0.128,surprise,0.002,anger,0.001,fear,0.001,sadness,0.001
+fried chicken,sadness,0.563,joy,0.362,anger,0.052,fear,0.012,love,0.006,surprise,0.004
+bergedils,love,0.996,surprise,0.001,fear,0.001,anger,0.001,joy,0.001,sadness,0.0
+food,joy,0.998,love,0.001,surprise,0.0,sadness,0.0,anger,0.0,fear,0.0
+service,anger,0.956,sadness,0.028,fear,0.012,joy,0.002,love,0.001,surprise,0.001
+staff,anger,0.875,joy,0.069,fear,0.039,surprise,0.009,sadness,0.006,love,0.002
+place,joy,0.997,sadness,0.001,anger,0.001,love,0.0,fear,0.0,surprise,0.0
+food,joy,0.992,love,0.006,surprise,0.001,anger,0.0,fear,0.0,sadness,0.0
+price,joy,0.984,love,0.004,sadness,0.004,anger,0.003,fear,0.003,surprise,0.002
+nasi lemak,joy,0.992,sadness,0.003,anger,0.002,surprise,0.001,love,0.001,fear,0.001
+chicken,anger,0.547,joy,0.318,fear,0.064,love,0.033,sadness,0.032,surprise,0.006
+beef,anger,0.513,joy,0.346,love,0.087,sadness,0.023,surprise,0.019,fear,0.013
+taste,joy,0.997,love,0.002,anger,0.0,surprise,0.0,sadness,0.0,fear,0.0
+flow water,joy,0.993,anger,0.003,love,0.002,sadness,0.001,surprise,0.001,fear,0.0
+juice stuff,anger,0.89,joy,0.05,sadness,0.045,fear,0.008,love,0.005,surprise,0.002
+food,joy,0.929,love,0.044,anger,0.022,sadness,0.004,surprise,0.001,fear,0.001
+avocado,joy,0.998,love,0.001,sadness,0.0,anger,0.0,surprise,0.0,fear,0.0
+chocolate smoothie,love,0.495,joy,0.476,anger,0.017,surprise,0.006,fear,0.004,sadness,0.003
+queue,joy,0.374,anger,0.373,fear,0.217,sadness,0.017,surprise,0.012,love,0.007
+taste,joy,0.996,love,0.003,surprise,0.0,anger,0.0,sadness,0.0,fear,0.0
+dining space,joy,0.996,love,0.002,sadness,0.001,anger,0.001,surprise,0.0,fear,0.0
+side dishes,love,0.61,joy,0.257,anger,0.121,surprise,0.005,sadness,0.004,fear,0.003
+parking,anger,0.913,joy,0.056,fear,0.019,sadness,0.007,love,0.004,surprise,0.001
+nasi lemak,joy,0.989,anger,0.004,sadness,0.003,love,0.002,fear,0.001,surprise,0.0
+portion,fear,0.647,sadness,0.142,joy,0.092,anger,0.074,surprise,0.027,love,0.017
+clean,joy,0.998,sadness,0.001,love,0.001,anger,0.001,surprise,0.0,fear,0.0
+spacious,joy,0.998,sadness,0.001,love,0.001,anger,0.001,surprise,0.0,fear,0.0
+nasi lemak,joy,0.996,love,0.003,surprise,0.0,anger,0.0,sadness,0.0,fear,0.0
+sauce,joy,0.997,anger,0.001,sadness,0.001,love,0.001,surprise,0.0,fear,0.0
+clean environment,joy,0.998,surprise,0.001,fear,0.0,love,0.0,sadness,0.0,anger,0.0
+nasi lemak,anger,0.468,sadness,0.403,joy,0.104,fear,0.017,love,0.006,surprise,0.002
+dish,joy,0.994,love,0.002,sadness,0.002,surprise,0.001,fear,0.001,anger,0.0
+sambal kerang,joy,0.995,anger,0.002,love,0.001,sadness,0.001,surprise,0.0,fear,0.0
+nasi lemak,joy,0.995,love,0.004,anger,0.0,surprise,0.0,sadness,0.0,fear,0.0
+smoothie,joy,0.765,love,0.139,sadness,0.078,fear,0.011,surprise,0.006,anger,0.001
+pricing,joy,0.989,anger,0.005,sadness,0.003,love,0.002,fear,0.001,surprise,0.001
+food,joy,0.995,sadness,0.002,love,0.001,anger,0.001,surprise,0.001,fear,0.0
+prices,anger,0.796,sadness,0.117,joy,0.057,fear,0.024,love,0.003,surprise,0.002
+portion,anger,0.408,joy,0.392,sadness,0.118,fear,0.058,love,0.018,surprise,0.006
+staff,joy,0.537,anger,0.213,fear,0.192,surprise,0.048,love,0.005,sadness,0.004
+sambal sauce,joy,0.967,love,0.027,anger,0.003,surprise,0.002,sadness,0.001,fear,0.001
+sotong,joy,0.985,anger,0.006,sadness,0.003,love,0.003,surprise,0.002,fear,0.001
+parking,joy,0.986,sadness,0.008,anger,0.003,love,0.001,fear,0.001,surprise,0.001
+shop,joy,0.994,sadness,0.003,anger,0.002,love,0.001,fear,0.0,surprise,0.0
+clean,joy,0.994,sadness,0.003,anger,0.002,love,0.001,fear,0.0,surprise,0.0
+food,joy,0.994,love,0.002,sadness,0.002,anger,0.001,surprise,0.001,fear,0.0
+prices,joy,0.988,love,0.004,sadness,0.003,anger,0.003,fear,0.002,surprise,0.001
+portions,joy,0.994,love,0.002,sadness,0.002,anger,0.001,fear,0.0,surprise,0.0
+squid,joy,0.998,love,0.001,surprise,0.0,sadness,0.0,anger,0.0,fear,0.0
+spacious,joy,0.996,love,0.001,sadness,0.001,fear,0.001,surprise,0.001,anger,0.0
+bright,joy,0.996,love,0.001,sadness,0.001,fear,0.001,surprise,0.001,anger,0.0
+clean,joy,0.996,love,0.001,sadness,0.001,fear,0.001,surprise,0.001,anger,0.0
+aircond room,love,0.983,anger,0.007,joy,0.005,surprise,0.003,fear,0.001,sadness,0.001
+sambal,anger,0.457,love,0.382,sadness,0.111,joy,0.036,fear,0.009,surprise,0.005
+tea o ais limau,love,0.482,joy,0.464,anger,0.042,sadness,0.007,surprise,0.003,fear,0.001
+taste,sadness,0.767,anger,0.149,fear,0.062,joy,0.014,love,0.006,surprise,0.003
+clean,joy,0.996,love,0.003,anger,0.001,sadness,0.001,surprise,0.0,fear,0.0
+hygienic,joy,0.996,love,0.003,anger,0.001,sadness,0.001,surprise,0.0,fear,0.0
+staff,joy,0.915,love,0.049,anger,0.03,sadness,0.003,fear,0.002,surprise,0.001
+price,joy,0.98,sadness,0.008,love,0.005,anger,0.004,surprise,0.002,fear,0.001
+sambal,joy,0.971,love,0.027,surprise,0.001,anger,0.001,sadness,0.0,fear,0.0
+portion,joy,0.699,sadness,0.208,anger,0.077,fear,0.008,love,0.006,surprise,0.002
+price,joy,0.989,anger,0.004,sadness,0.003,love,0.002,fear,0.001,surprise,0.001
+price,joy,0.955,anger,0.031,sadness,0.007,love,0.004,fear,0.001,surprise,0.001
+food,joy,0.996,sadness,0.001,anger,0.001,love,0.001,surprise,0.0,fear,0.0
+chicken,joy,0.949,anger,0.039,love,0.005,sadness,0.004,fear,0.002,surprise,0.001
+begedil,joy,0.963,anger,0.024,love,0.006,sadness,0.005,fear,0.001,surprise,0.001
+service,joy,0.994,anger,0.002,surprise,0.001,fear,0.001,love,0.001,sadness,0.001
+nasi lemak,joy,0.985,love,0.006,anger,0.005,sadness,0.002,fear,0.001,surprise,0.001
+sambal,love,0.808,joy,0.167,anger,0.014,surprise,0.009,fear,0.001,sadness,0.001
+squid chili sauce,joy,0.991,love,0.007,anger,0.001,surprise,0.001,sadness,0.0,fear,0.0
+parking,sadness,0.844,anger,0.085,fear,0.062,joy,0.007,surprise,0.001,love,0.001
+food,joy,0.993,love,0.006,surprise,0.001,fear,0.0,anger,0.0,sadness,0.0
+money,joy,0.99,anger,0.004,sadness,0.003,love,0.001,surprise,0.001,fear,0.001
+priced,joy,0.996,anger,0.001,love,0.001,sadness,0.001,surprise,0.0,fear,0.0
+nasi lemak,joy,0.993,love,0.005,anger,0.001,sadness,0.001,surprise,0.0,fear,0.0
+portion,sadness,0.997,love,0.001,anger,0.001,joy,0.0,fear,0.0,surprise,0.0
+side dishes,anger,0.723,joy,0.241,love,0.012,sadness,0.012,fear,0.008,surprise,0.005
+air conditioning,joy,0.985,love,0.01,anger,0.002,sadness,0.002,surprise,0.001,fear,0.001
+coway water,joy,0.984,love,0.008,sadness,0.003,surprise,0.002,anger,0.002,fear,0.001
+iced,joy,0.996,love,0.003,surprise,0.0,anger,0.0,sadness,0.0,fear,0.0
+nasi lemak,joy,0.995,love,0.002,sadness,0.002,fear,0.001,anger,0.001,surprise,0.0
+quantity,sadness,0.415,anger,0.402,joy,0.091,fear,0.084,surprise,0.004,love,0.004
+service,sadness,0.913,anger,0.066,fear,0.018,joy,0.002,surprise,0.001,love,0.001
+staff,joy,0.998,surprise,0.001,anger,0.0,love,0.0,sadness,0.0,fear,0.0
+clean,joy,0.998,surprise,0.001,anger,0.0,love,0.0,sadness,0.0,fear,0.0
+rendang chicken,joy,0.993,sadness,0.002,love,0.002,anger,0.001,fear,0.001,surprise,0.001
+beef,joy,0.993,sadness,0.002,love,0.002,anger,0.001,fear,0.001,surprise,0.001
+place,joy,0.991,sadness,0.003,anger,0.001,fear,0.001,surprise,0.001,love,0.001
+cheap,joy,0.923,anger,0.047,sadness,0.022,love,0.004,surprise,0.002,fear,0.002
+food,joy,0.909,surprise,0.084,fear,0.004,sadness,0.001,anger,0.001,love,0.001
+nasi lemak,joy,0.997,love,0.001,sadness,0.0,anger,0.0,surprise,0.0,fear,0.0
+paru,joy,0.997,love,0.002,surprise,0.0,sadness,0.0,anger,0.0,fear,0.0
+limpa,joy,0.997,love,0.002,surprise,0.0,sadness,0.0,anger,0.0,fear,0.0
+ayam masak merah,joy,0.732,anger,0.178,love,0.06,sadness,0.019,fear,0.007,surprise,0.005
+drinks,love,0.974,joy,0.017,anger,0.005,surprise,0.002,sadness,0.001,fear,0.001
+nasi lemak,joy,0.947,anger,0.017,love,0.016,sadness,0.01,fear,0.006,surprise,0.003
+quick,joy,0.998,love,0.001,anger,0.0,surprise,0.0,sadness,0.0,fear,0.0
+flavor,anger,0.856,fear,0.094,sadness,0.033,joy,0.012,love,0.003,surprise,0.002
+fried chicken,anger,0.987,sadness,0.01,fear,0.002,joy,0.0,surprise,0.0,love,0.0
+quick meal,joy,0.96,anger,0.021,sadness,0.01,love,0.005,fear,0.002,surprise,0.001
+nasi lemak,joy,0.971,sadness,0.01,love,0.009,anger,0.009,surprise,0.001,fear,0.001
+taste,anger,0.951,sadness,0.025,joy,0.018,fear,0.003,love,0.001,surprise,0.001
+sambal,anger,0.585,love,0.351,joy,0.025,fear,0.018,surprise,0.016,sadness,0.006
+clean,joy,0.997,sadness,0.001,love,0.001,anger,0.001,surprise,0.0,fear,0.0
+staff,joy,0.997,love,0.002,sadness,0.0,anger,0.0,surprise,0.0,fear,0.0
+nasi lemak,joy,0.999,surprise,0.0,sadness,0.0,love,0.0,anger,0.0,fear,0.0
+varieties,joy,0.706,love,0.287,anger,0.004,surprise,0.002,sadness,0.001,fear,0.0
+dishes,joy,0.706,love,0.287,anger,0.004,surprise,0.002,sadness,0.001,fear,0.0
+parking,joy,0.732,anger,0.226,sadness,0.02,fear,0.01,love,0.008,surprise,0.004
+fried chicken,love,0.501,joy,0.364,anger,0.109,surprise,0.009,sadness,0.008,fear,0.007
+rice,love,0.581,joy,0.402,anger,0.007,sadness,0.004,surprise,0.003,fear,0.002
+sambal,joy,0.995,anger,0.002,love,0.001,sadness,0.001,surprise,0.0,fear,0.0
+anchovies,anger,0.987,fear,0.009,sadness,0.002,love,0.001,surprise,0.001,joy,0.0
+place,joy,0.676,love,0.314,sadness,0.004,anger,0.004,surprise,0.001,fear,0.0
+service,joy,0.991,love,0.005,sadness,0.002,anger,0.001,surprise,0.0,fear,0.0
+price,joy,0.996,love,0.001,sadness,0.001,anger,0.001,surprise,0.001,fear,0.0
+place,joy,0.984,sadness,0.006,anger,0.004,love,0.003,fear,0.001,surprise,0.001
+food,joy,0.994,love,0.005,surprise,0.0,anger,0.0,sadness,0.0,fear,0.0
+place,joy,0.996,sadness,0.001,love,0.001,anger,0.001,fear,0.0,surprise,0.0
+service,joy,0.994,love,0.001,sadness,0.001,anger,0.001,fear,0.001,surprise,0.001
+rice,joy,0.912,anger,0.046,sadness,0.03,fear,0.006,surprise,0.003,love,0.003
+sambal,joy,0.912,anger,0.046,sadness,0.03,fear,0.006,surprise,0.003,love,0.003
+nasi lemak,joy,0.989,love,0.004,anger,0.003,sadness,0.002,fear,0.001,surprise,0.001
+portion,joy,0.95,sadness,0.031,anger,0.012,love,0.004,fear,0.003,surprise,0.001
+taste,joy,0.997,surprise,0.001,sadness,0.001,anger,0.0,love,0.0,fear,0.0
+nasi lemak,anger,0.878,joy,0.086,sadness,0.017,fear,0.013,love,0.004,surprise,0.003
+workers,anger,0.989,fear,0.007,sadness,0.003,love,0.0,joy,0.0,surprise,0.0
+service,joy,0.992,love,0.002,sadness,0.002,anger,0.002,surprise,0.001,fear,0.001
+restroom,joy,0.998,sadness,0.001,fear,0.0,love,0.0,surprise,0.0,anger,0.0
+clean,joy,0.998,sadness,0.001,fear,0.0,love,0.0,surprise,0.0,anger,0.0
+nasi lemak,joy,0.997,love,0.001,sadness,0.0,anger,0.0,surprise,0.0,fear,0.0
+environment,joy,0.998,love,0.001,sadness,0.001,anger,0.0,fear,0.0,surprise,0.0
+clean,joy,0.998,love,0.001,sadness,0.001,anger,0.0,fear,0.0,surprise,0.0
+queue,anger,0.571,fear,0.258,joy,0.147,surprise,0.012,sadness,0.008,love,0.002
+moves,anger,0.571,fear,0.258,joy,0.147,surprise,0.012,sadness,0.008,love,0.002
+service,joy,0.973,love,0.018,sadness,0.004,anger,0.004,surprise,0.001,fear,0.0
+rendang daging,love,0.524,joy,0.451,anger,0.018,sadness,0.004,surprise,0.002,fear,0.001
+sambal kerang,love,0.524,joy,0.451,anger,0.018,sadness,0.004,surprise,0.002,fear,0.001
+avocado,joy,0.998,love,0.001,anger,0.001,surprise,0.0,sadness,0.0,fear,0.0
+mango smoothies,joy,0.998,love,0.001,anger,0.001,surprise,0.0,sadness,0.0,fear,0.0
+parking,anger,0.45,fear,0.299,joy,0.192,sadness,0.041,surprise,0.013,love,0.005
+customer service,joy,0.95,surprise,0.045,love,0.002,anger,0.001,fear,0.001,sadness,0.0
+chicken,anger,0.904,fear,0.041,joy,0.041,love,0.006,sadness,0.006,surprise,0.002
+smoothies,joy,0.996,surprise,0.002,anger,0.001,fear,0.001,love,0.0,sadness,0.0
+food,joy,0.993,anger,0.004,love,0.002,sadness,0.001,surprise,0.001,fear,0.0
+nasi lemak,joy,0.567,anger,0.263,love,0.098,sadness,0.029,surprise,0.022,fear,0.02
+rice,love,0.539,joy,0.429,sadness,0.009,anger,0.009,fear,0.008,surprise,0.005
+sambal,love,0.556,anger,0.306,joy,0.108,surprise,0.019,fear,0.006,sadness,0.005
+clean,joy,0.996,love,0.002,anger,0.0,sadness,0.0,surprise,0.0,fear,0.0
+taste,sadness,0.895,anger,0.048,joy,0.035,fear,0.016,love,0.005,surprise,0.001
+clean,joy,0.996,love,0.003,anger,0.001,sadness,0.001,surprise,0.0,fear,0.0
+hygienic,joy,0.996,love,0.003,anger,0.001,sadness,0.001,surprise,0.0,fear,0.0
+staff,joy,0.915,love,0.049,anger,0.03,sadness,0.003,fear,0.002,surprise,0.001
+price,joy,0.99,love,0.004,sadness,0.002,anger,0.002,surprise,0.001,fear,0.001
+queue,anger,0.423,joy,0.382,fear,0.162,surprise,0.019,sadness,0.009,love,0.005
+management,anger,0.788,joy,0.192,love,0.011,surprise,0.003,sadness,0.003,fear,0.001
+sambal,joy,0.971,love,0.027,surprise,0.001,anger,0.001,sadness,0.0,fear,0.0
+portion,joy,0.763,sadness,0.134,anger,0.087,love,0.008,fear,0.005,surprise,0.002
+price,joy,0.989,anger,0.004,sadness,0.003,love,0.002,fear,0.001,surprise,0.001
+service,joy,0.991,sadness,0.004,anger,0.002,love,0.002,surprise,0.001,fear,0.0
+clean,joy,0.995,sadness,0.002,anger,0.002,love,0.001,fear,0.0,surprise,0.0
+atmosphere,joy,0.997,love,0.002,surprise,0.0,sadness,0.0,anger,0.0,fear,0.0
+nasi lemak,joy,0.992,sadness,0.003,love,0.002,anger,0.001,fear,0.001,surprise,0.001
+queue,anger,0.772,fear,0.183,joy,0.03,sadness,0.009,surprise,0.005,love,0.002
+service,joy,0.986,anger,0.005,fear,0.004,surprise,0.002,sadness,0.002,love,0.001
+rice,joy,0.976,love,0.02,anger,0.002,sadness,0.001,surprise,0.001,fear,0.001
+sambal,love,0.979,joy,0.015,anger,0.003,surprise,0.001,fear,0.001,sadness,0.001
+taste,joy,0.999,love,0.0,sadness,0.0,anger,0.0,surprise,0.0,fear,0.0
+service,sadness,0.992,anger,0.005,fear,0.002,joy,0.001,surprise,0.0,love,0.0
+service,joy,0.997,love,0.002,anger,0.0,sadness,0.0,surprise,0.0,fear,0.0
+staff,joy,0.997,love,0.002,anger,0.0,sadness,0.0,surprise,0.0,fear,0.0
+price,joy,0.991,love,0.003,sadness,0.002,anger,0.001,fear,0.001,surprise,0.001
+nasi lemak,joy,0.998,love,0.002,surprise,0.0,sadness,0.0,anger,0.0,fear,0.0
+side dishes,joy,0.485,anger,0.284,love,0.188,surprise,0.023,sadness,0.012,fear,0.008
+clean,joy,0.968,anger,0.016,sadness,0.011,love,0.002,fear,0.002,surprise,0.001
+staff,joy,0.999,love,0.0,sadness,0.0,anger,0.0,surprise,0.0,fear,0.0
+taste,anger,0.584,joy,0.287,love,0.056,sadness,0.055,surprise,0.009,fear,0.008
+price,joy,0.993,anger,0.004,love,0.001,sadness,0.001,surprise,0.0,fear,0.0
+service,joy,0.968,anger,0.015,fear,0.007,surprise,0.006,sadness,0.002,love,0.002
+nasi lemak,sadness,0.983,anger,0.011,joy,0.003,love,0.002,fear,0.001,surprise,0.0
+sambal,joy,0.966,anger,0.024,love,0.006,sadness,0.002,surprise,0.001,fear,0.001
+nasi lemak,love,0.5,joy,0.448,anger,0.03,surprise,0.012,fear,0.006,sadness,0.005
+rice,love,0.606,joy,0.104,anger,0.09,fear,0.084,surprise,0.058,sadness,0.058
+rendang ayam,joy,0.998,love,0.001,sadness,0.0,anger,0.0,surprise,0.0,fear,0.0
+parking,joy,0.82,anger,0.067,fear,0.056,surprise,0.022,sadness,0.021,love,0.015
+nasi lemak,joy,0.986,surprise,0.008,love,0.003,fear,0.001,anger,0.001,sadness,0.001
+fried chicken,joy,0.558,anger,0.349,fear,0.058,sadness,0.022,love,0.009,surprise,0.004
+parking,joy,0.939,fear,0.037,anger,0.011,surprise,0.007,sadness,0.005,love,0.002
+nasi lemak,love,0.623,joy,0.243,anger,0.116,sadness,0.013,fear,0.003,surprise,0.002
+price,joy,0.996,sadness,0.002,love,0.001,anger,0.001,fear,0.0,surprise,0.0
+clean,joy,0.996,sadness,0.002,love,0.001,anger,0.001,fear,0.0,surprise,0.0
+parking,fear,0.656,anger,0.189,sadness,0.119,joy,0.03,surprise,0.005,love,0.002
+staff,joy,0.989,love,0.01,surprise,0.0,anger,0.0,sadness,0.0,fear,0.0
+lungs,love,0.46,anger,0.385,joy,0.081,fear,0.038,surprise,0.029,sadness,0.007
+aircond,joy,0.912,anger,0.048,fear,0.023,sadness,0.009,surprise,0.004,love,0.003
+dishes,joy,0.875,anger,0.091,love,0.016,sadness,0.009,surprise,0.005,fear,0.004
+taste,joy,0.998,love,0.001,anger,0.0,sadness,0.0,surprise,0.0,fear,0.0
+sambal,love,0.87,joy,0.114,anger,0.006,surprise,0.004,fear,0.003,sadness,0.002
+service,joy,0.688,fear,0.222,anger,0.062,surprise,0.014,sadness,0.011,love,0.004
+nasi lemak,joy,0.995,anger,0.002,love,0.001,sadness,0.001,surprise,0.0,fear,0.0
+place,joy,0.993,sadness,0.002,fear,0.002,love,0.001,anger,0.001,surprise,0.001
+service,joy,0.997,sadness,0.001,anger,0.001,love,0.001,fear,0.0,surprise,0.0
+spacious,joy,0.997,sadness,0.001,anger,0.001,love,0.001,fear,0.0,surprise,0.0
+staff,joy,0.998,sadness,0.001,love,0.001,anger,0.0,surprise,0.0,fear,0.0
+nasi lemak,joy,0.786,anger,0.096,love,0.081,sadness,0.023,surprise,0.011,fear,0.004
+side dishes,joy,0.786,anger,0.096,love,0.081,sadness,0.023,surprise,0.011,fear,0.004
+nasi lemak,joy,0.956,sadness,0.019,anger,0.016,fear,0.004,surprise,0.003,love,0.002
+portion,sadness,0.336,fear,0.288,anger,0.234,joy,0.124,surprise,0.01,love,0.008
+place,joy,0.996,sadness,0.002,anger,0.001,fear,0.0,surprise,0.0,love,0.0
+food,joy,0.997,love,0.002,surprise,0.0,anger,0.0,sadness,0.0,fear,0.0
+pricey,joy,0.718,anger,0.173,love,0.055,sadness,0.04,fear,0.009,surprise,0.005
+nasi lemak,joy,0.893,anger,0.06,love,0.025,sadness,0.015,fear,0.004,surprise,0.003
+queue,joy,0.993,anger,0.003,sadness,0.002,love,0.001,surprise,0.0,fear,0.0
+parking,anger,0.96,fear,0.028,sadness,0.005,joy,0.005,surprise,0.001,love,0.001
+system,joy,0.996,sadness,0.002,anger,0.001,love,0.001,fear,0.0,surprise,0.0
+sambal,love,0.986,joy,0.012,anger,0.001,sadness,0.001,surprise,0.001,fear,0.0
+fried chicken,love,0.958,joy,0.021,surprise,0.011,anger,0.007,fear,0.002,sadness,0.001
+food,joy,0.997,sadness,0.002,love,0.001,surprise,0.001,anger,0.0,fear,0.0
+nasi lemak,surprise,0.797,joy,0.184,fear,0.013,anger,0.002,sadness,0.002,love,0.001
+workers,anger,0.738,sadness,0.154,joy,0.092,fear,0.01,love,0.003,surprise,0.003
+service,sadness,0.99,anger,0.006,fear,0.003,surprise,0.001,joy,0.0,love,0.0
+nasi lemak,joy,0.999,surprise,0.001,sadness,0.0,love,0.0,anger,0.0,fear,0.0
+parking,fear,0.802,anger,0.175,sadness,0.014,joy,0.006,surprise,0.002,love,0.001
+clean,joy,0.998,sadness,0.001,love,0.001,anger,0.001,surprise,0.0,fear,0.0
